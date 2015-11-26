@@ -1,0 +1,9 @@
+#surefire
+#Tue Oct 06 11:57:18 CEST 2015
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.0.2\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\Users\\hp\\Documents\\NetBeansProjects\\Tinza
+file.encoding=UTF-8
+localRepository=C\:\\Users\\hp\\.m2\\repository
+netbeans.deploy=true
+netbeans.deploy.debugmode=true
+basedir=C\:\\Users\\hp\\Documents\\NetBeansProjects\\Tinza

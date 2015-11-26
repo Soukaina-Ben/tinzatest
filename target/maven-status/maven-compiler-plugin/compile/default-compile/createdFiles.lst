@@ -1,0 +1,5 @@
+model\User.class
+Validator\UserValidator.class
+controller\userController.class
+model\HibernateUtil.class
+controller\HTMLMail.class
